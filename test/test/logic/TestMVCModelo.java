@@ -1,4 +1,4 @@
-package test.logic;
+/*package test.logic;
 
 import static org.junit.Assert.*;
 import model.logic.MVCModelo;
@@ -53,3 +53,4 @@ public class TestMVCModelo {
 	}
 
 }
+*/
